@@ -1,5 +1,8 @@
+package domain;
+
 /**
- * Created by zhanghmg on 2019/7/17.
+ * @author zhangming
+ * @date 2019/5/26 22:01
  */
 public class Pair<L, R> {
 
